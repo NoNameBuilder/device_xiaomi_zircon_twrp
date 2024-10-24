@@ -98,7 +98,7 @@ TARGET_BOARD_PLATFORM := mt6886
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # Treble
-BOARD_VNDK_VERSION := 33
+BOARD_VNDK_VERSION := current
 
 # Vendor_boot recovery ramdisk
 BOARD_USES_RECOVERY_AS_BOOT := 
